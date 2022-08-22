@@ -248,6 +248,7 @@ td, th {
     margin: 2em auto;
 }
 
+/* Responsivo página principal */
 @media screen and (max-width: 480px) {
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
@@ -264,5 +265,28 @@ td, th {
 
     .lista-beneficios, .imagem-beneficios {
         width: 100%;
+    }
+}
+
+/* Responsivo página contato */
+@media screen and (max-width: 480px) {
+    .input-padrao {
+        width: 100%;
+    }
+
+    .dados-pessoais, fieldset, .enviar {
+        margin: 0 0 0 5px;
+    }
+    
+    table {
+        margin-left: 5px;
+    }
+}
+
+/* Responsivo página produtos */
+@media screen and (max-width: 480px) {
+    .produtos li {
+        display: block;
+        margin: 10px 50px;
     }
 }
