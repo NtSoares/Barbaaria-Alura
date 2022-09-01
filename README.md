@@ -13,14 +13,11 @@ Este é um dos projetos de estudo dos cursos de HTML e CSS da plataforma de estu
 * Estrutura básica de um arquivo HTML
 * Utilizar a ferramenta de inspeção de elementos do navegador
 * Definir estilos para elementos usando o CSS
-* Desenvolver uma página Web
 * Conheça reset.css e o posicionamento pelo CSS
 * Diferença entre inline e block
-* Bordas e pseudo-classes CSS
 * Formulários complexos
 * Importar conteúdo externo na sua página HTML, como fontes, vídeos e mapas
 * Pseudo-classes e pseudo-elementos
-* Como lidar com opacidade e sombra
 * Viewport e design responsivo
 
 
