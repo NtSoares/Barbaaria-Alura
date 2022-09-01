@@ -32,7 +32,7 @@ Este é um dos projetos de estudo dos cursos de HTML e CSS da plataforma de estu
 * Página Contatos<br><br>
 ![contatos](https://user-images.githubusercontent.com/86579155/187918322-8f19ea12-ff20-410d-af4c-e246cb32ccc3.gif)
 
-https://ntsoares.github.io/Barbearia-Alura/
+* Link deploy: https://ntsoares.github.io/Barbearia-Alura/
 
 ### Autor
 
