@@ -2,8 +2,12 @@ body {
     
 }
 
+#banner {
+    width: 100%;
+}
+
 .principal {
-    background: #CCCCCC;
+    background: #cccccc;
     padding: 30px;
 }
 
@@ -11,11 +15,11 @@ body {
     padding-left: 20px;
 }
 
-#banner {
-    width: 100%;
+.titulo-centralizado {
+    text-align: center
 }
 
-.titulo-centralizado {
+p {
     text-align: center;
 }
 
@@ -23,12 +27,8 @@ body {
     font-size: 20px;
 }
 
-p {
-    text-align: center;
-}
-
 em strong {
-    color: #FF0000;
+    color: #ff0000;
 }
 
 .itens {
@@ -36,7 +36,7 @@ em strong {
 }
 
 .beneficios {
-    background: #FFFFFF;
+    background: #ffffff;
     padding: 20px;
 }
 
